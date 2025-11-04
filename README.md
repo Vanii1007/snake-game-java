@@ -1,24 +1,36 @@
-# Snake Game in Java 🐍
+<h1 align="center">🐍 Snake Game in Java</h1>
 
-A simple Snake game built using **Java Swing**.  
-Use the arrow keys to move the snake and eat the red apple to grow.  
-But be careful — don't hit the walls or your own tail!
+<p align="center">
+A fun and classic Snake Game built using <b>Java Swing</b>. <br>
+Control the snake, eat apples, grow longer, and avoid crashing!
+</p>
 
 ---
 
 ## 🎮 Controls
+
 | Key | Action |
 |----|--------|
 | ⬆️ Up Arrow | Move Up |
 | ⬇️ Down Arrow | Move Down |
 | ⬅️ Left Arrow | Move Left |
 | ➡️ Right Arrow | Move Right |
-| R | Restart After Game Over |
+| **R** | Restart After Game Over |
 
 ---
 
-## 🚀 How to Run the Game
+## ✨ Features
+- Score counter
+- Smooth snake movement
+- Restart any time after Game Over
+- Beginner-friendly, clean code
+- Uses Java Swing GUI
 
-### Step 1 — Compile
+---
+
+## 🛠️ How to Run
+
+Make sure Java is installed:
+
 ```bash
-javac *.java
+java --version
